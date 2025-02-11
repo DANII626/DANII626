@@ -1,5 +1,15 @@
+
+<h1>hello, welcome my profile</h1>
+ <h1>I'm happy to see you, I ask for patience because at the moment I'm learning</h1> ![happy](https://i.gifer.com/origin/f4/f45c1f76c1c6322b6b80e584c69865e9_w200.gif)
+ <h3>em breve estarei atualizando aqui meu processo de aprendizado</h3>
+
+![apaixonada](https://adimax.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/05/cuidados-filhote-de-cachorro.jpg.webp)
+*happy*
+
+
+
 <h1 align="center">Hi 👋, I'm DANIELLE BARBOSA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danii626&label=Profile%20views&color=0e75b6&style=flat" alt="danii626" /> </p>
 
