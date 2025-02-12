@@ -1,10 +1,16 @@
 
 <h1>hello, welcome my profile</h1>
- <h1>I'm happy to see you, I ask for patience because at the moment I'm learning</h1> ![happy](https://i.gifer.com/origin/f4/f45c1f76c1c6322b6b80e584c69865e9_w200.gif)
- <h3>em breve estarei atualizando aqui meu processo de aprendizado</h3>
+ <h1>I'm happy to see you, I ask for patience because at the moment I'm learning</h1>
 
-![apaixonada](https://adimax.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/05/cuidados-filhote-de-cachorro.jpg.webp)
-*happy*
+
+![apaixonada](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwVOuDWg03_mKgEjFTY-5txVaBBbVB8bquaw&s)
+
+ 
+ <h3>Dedicated ADS student, passionate about technology and looking for her first professional opportunity through an internship. Communicative and proactive, I am familiar with the Office Package and other software relevant to the profession.
+
+Ease of adaptation, requiring teamwork and a great sense of responsibility, seeking to develop the skills that I have been building throughout my time on the course.</h3>
+
+
 
 
 
