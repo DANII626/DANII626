@@ -10,6 +10,7 @@
 
 Ease of adaptation, requiring teamwork and a great sense of responsibility, seeking to develop the skills that I have been building throughout my time on the course.</h3>
 
+![image](https://github.com/user-attachments/assets/7842c2ce-6749-49c8-95aa-bbe351d235aa)
 
 
 
